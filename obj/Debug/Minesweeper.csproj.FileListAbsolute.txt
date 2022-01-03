@@ -1,0 +1,11 @@
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\BekahStuff\projects\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\BekahStuff\projects\Minesweeper\bin\Debug\Minesweeper.exe
+C:\BekahStuff\projects\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.exe
+C:\BekahStuff\projects\Minesweeper\obj\Debug\Minesweeper.pdb
